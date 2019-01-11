@@ -16,14 +16,15 @@ body {
 }
 
 .links {
+  display: block;
+  margin: 0 auto;
   text-align: center;
-  list-style: none;
-  padding-right: 3%;
+  padding: 0px;
 }
 
 
 a:link {
-  color: red;
+  color: yellow;
 }
 a:visited {
   color: green;
@@ -34,10 +35,66 @@ a:hover {
 a:active {
   color: white;
 }
+li {
+  padding-top: 1%;
+  padding-bottom: 1%;
+}
 
-
-
-.project {
+p {
+  display: block;
+  margin: 0 auto;
+  text-align: center;
   color: white;
-  font-size: 50px;
+  width: 55%;
+  height: auto;
+}
+
+/*All code above is for general format on all pages. Code below will be specific per page. */
+
+/* Home Page */
+
+
+
+
+
+/* Aout Page */
+
+
+
+
+
+/*Project Page */
+
+
+.projectIntro {
+  color: white;
+  text-align: center;
+  font-size: 20px;
+  padding-top: 3%;
+  padding-bottom: 3%;
+}
+
+.projects {
+
+}
+
+.gitlinks {
+  display: block;
+  margin: 0 auto;
+  text-align: center;
+  padding-top: 3%;
+  padding-bottom: 2%;
+  width: 20%;
+  height: auto;
+}
+
+.projectinfo {
+  color: white;
+  font-style: italic;
+  display: block;
+  margin: 0 auto;
+  width: 55%;
+  height: auto;
+  text-align: center;
+  font-size: 16px;
 }
