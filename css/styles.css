@@ -2,6 +2,8 @@
   text-align: center;
   font-size: 50px;
   color: white;
+  padding-top: 3%;
+  text-decoration-line: underline;
 }
 
 
@@ -11,8 +13,9 @@ body {
 .natePic {
   display: block;
   margin: 0 auto;
-  width: 20%;
+  width: 35%;
   height: auto;
+  padding-top: 6%;
 }
 
 .links {
@@ -20,6 +23,7 @@ body {
   margin: 0 auto;
   text-align: center;
   padding: 0px;
+  padding-top: 3%;
 }
 
 
@@ -49,6 +53,15 @@ p {
   height: auto;
 }
 
+
+
+.container {
+  max-width: 100%;
+  width: 100%;
+  padding: 0;
+  height: auto;
+}
+
 /*All code above is for general format on all pages. Code below will be specific per page. */
 
 /* Home Page */
@@ -57,7 +70,53 @@ p {
 
 
 
-/* Aout Page */
+/* About Page */
+
+.left {
+  padding-top: 6%;
+  float: left;
+}
+.right {
+  float: right;
+  padding-top: 6%;
+}
+
+
+
+.educationImg {
+  width: 60%;
+  height: auto;
+  display: block;
+  margin: 0 auto;
+  padding-top: 3%;
+  padding-bottom: 3%;
+}
+.rightImg {
+  padding-top: 10%;
+}
+
+
+
+.gridtitle {
+  color: white;
+  display: block;
+  margin: 0 auto;
+  text-align: center;
+  width: 200px;
+  padding-left: 3%;
+}
+
+.educationinfo {
+  color: white;
+  display: block;
+  margin: 0 auto;
+  text-align: center;
+  font-style: italic;
+  font-size: 14px;
+  padding-left: 5%;
+  padding-right: 5%;
+  padding-bottom: 3%;
+}
 
 
 
