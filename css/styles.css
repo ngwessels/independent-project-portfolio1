@@ -1,0 +1,43 @@
+.name {
+  text-align: center;
+  font-size: 50px;
+  color: white;
+}
+
+
+body {
+  background-image: url("../imgs/background.jpg");
+}
+.natePic {
+  display: block;
+  margin: 0 auto;
+  width: 20%;
+  height: auto;
+}
+
+.links {
+  text-align: center;
+  list-style: none;
+  padding-right: 3%;
+}
+
+
+a:link {
+  color: red;
+}
+a:visited {
+  color: green;
+}
+a:hover {
+  color: orange;
+}
+a:active {
+  color: white;
+}
+
+
+
+.project {
+  color: white;
+  font-size: 50px;
+}
