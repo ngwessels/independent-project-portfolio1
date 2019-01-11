@@ -18,17 +18,18 @@ body {
   text-align: center;
   padding: 0px;
   padding-top: 3%;
+  text-decoration-line: underline;
 }
 
 
 a:link {
-  color: green;
+  color: skyblue;
 }
 a:visited {
-  color: orange;
+  color: tomato;
 }
 a:hover {
-  color: white;
+  color: grey;
 }
 a:active {
   color: white;
@@ -56,6 +57,12 @@ p {
   height: auto;
 }
 
+
+.pic {
+  /* Not in use at the moment */
+  max-width: 600px;
+}
+
 /*All code above is for general format on all pages. Code below will be specific per page. */
 
 /* Home Page */
@@ -66,6 +73,14 @@ p {
   width: 35%;
   height: auto;
   padding-top: 6%;
+  min-width: 290px;
+
+}
+
+.mainintro {
+  padding-top: 3%;
+  font-size: 18px;
+  max-width: 1200px;
 }
 
 
@@ -88,8 +103,10 @@ p {
   height: auto;
   display: block;
   margin: 0 auto;
+  margin-top: 2%;
   padding-top: 3%;
   padding-bottom: 3%;
+
 }
 .rightImg {
   padding-top: 10%;
@@ -143,17 +160,20 @@ p {
 
 /*Project Page */
 
+.projecttitle {
+  margin: 0%;
+}
+
 
 .projectIntro {
   color: white;
+  display: block;
+  margin: 0 auto;
   text-align: center;
   font-size: 20px;
   padding-top: 3%;
   padding-bottom: 3%;
-}
-
-.projects {
-
+  max-width: 700px;
 }
 
 .gitlinks {
@@ -175,4 +195,5 @@ p {
   height: auto;
   text-align: center;
   font-size: 16px;
+  max-width: 500px;
 }
