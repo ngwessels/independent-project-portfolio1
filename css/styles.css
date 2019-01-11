@@ -3,7 +3,7 @@
   font-style: normal;
   font-size: 50px;
   font-size: 3vw;
-  color: white;
+  color: lightgrey;
   padding-top: 3%;
   text-decoration-line: underline;
 }
@@ -51,7 +51,7 @@ p {
   display: block;
   margin: 0 auto;
   text-align: center;
-  color: white;
+  color: lightgrey;
   width: 75%;
   height: auto;
 }
@@ -96,6 +96,11 @@ p {
 
 .blockquote {
   color: grey;
+  width: 80%;
+  float: right;
+}
+.person {
+  color: lightgrey;
 }
 
 
@@ -130,7 +135,7 @@ p {
 
 
 .gridtitle {
-  color: white;
+  color: lightgrey;
   display: block;
   margin: 0 auto;
   text-align: center;
@@ -144,7 +149,7 @@ p {
 }
 
 .educationinfo {
-  color: white;
+  color: lightgrey;
   display: block;
   margin: 0 auto;
   text-align: center;
@@ -184,7 +189,7 @@ p {
 
 
 .projectIntro {
-  color: white;
+  color: lightgrey;
   display: block;
   margin: 0 auto;
   text-align: center;
@@ -207,7 +212,7 @@ p {
 }
 
 .projectinfo {
-  color: white;
+  color: lightgrey;
   font-style: italic;
   display: block;
   margin: 0 auto;
