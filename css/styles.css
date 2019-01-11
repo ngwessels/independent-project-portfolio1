@@ -10,13 +10,7 @@
 body {
   background-image: url("../imgs/background2.jpg");
 }
-.natePic {
-  display: block;
-  margin: 0 auto;
-  width: 35%;
-  height: auto;
-  padding-top: 6%;
-}
+
 
 .links {
   display: block;
@@ -66,7 +60,13 @@ p {
 
 /* Home Page */
 
-
+.natePic {
+  display: block;
+  margin: 0 auto;
+  width: 35%;
+  height: auto;
+  padding-top: 6%;
+}
 
 
 
@@ -106,19 +106,38 @@ p {
   padding-left: 3%;
 }
 
+.bottomgridtitle {
+  padding: 0%;
+}
+
 .educationinfo {
   color: white;
   display: block;
   margin: 0 auto;
   text-align: center;
   font-style: italic;
-  font-size: 14px;
+  font-size: 18px;
   padding-left: 5%;
   padding-right: 5%;
   padding-bottom: 3%;
 }
 
+.bot {
+  padding-top: 5%;
+}
 
+.botinfo {
+  padding-top: 3%;
+  margin-left: 8%;
+  margin-right: 8%;
+}
+
+.dog {
+  transform: rotate(90deg);
+  padding-left: 10%;
+  padding-bottom: 4%;
+  padding-right: 10%;
+}
 
 
 
