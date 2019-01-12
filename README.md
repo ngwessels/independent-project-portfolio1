@@ -21,7 +21,7 @@ _This program once it is run will display a portfolio of my creation. The websit
 
 ## Known Bugs
 
-_There are not currently any known bugs_
+_There is no known bugs at this time!_
 
 ## _Support and Contact Information_
 
