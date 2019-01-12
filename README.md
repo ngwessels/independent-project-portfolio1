@@ -14,7 +14,7 @@ _This program once it is run will display a portfolio of my creation. The websit
   1. Open the terminal on your device. First make sure you the git library downloaded.
   2. Once the Git library is next step is to create a directory to store this. To create a directory type in the command mkdir portfolio.
   3. Once that directory is created you need to enter the directory. To do that type in the command cd portfolio.
-  4. Now we need to clone the repository from Github. To do that you need to type in the command "git clone https://github.com/ngwessels/independent-project1"
+  4. Now we need to clone the repository from Github. To do that you need to type in the command "git clone https://github.com/ngwessels/Independent-project-portfolio"
   5. After done with that type in "git remote -v" to make sure the Repository downloaded into that directory.
   6. To run the application open your folder or finder application on your desktop and open the index.html file. It will open up your internet browser and bring you to the portfolio.
 
