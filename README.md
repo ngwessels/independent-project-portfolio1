@@ -6,7 +6,9 @@
 
 ## Description
 
-_This program once it is run will display a portfolio of my creation. The website will have three two separate links per page that take you to a different page. There is a total of 3 pages. In the home page is a picture of me. Right above the pictures is two links that will take you to the other pages. Under the picture is a text. When clicking the About link it will take you to the "About Me" page. There you will notice that there is two columns One labeled with "Education" the other labeled "Why I am here". And at the bottom of the About Me page is a section labeled "My Hobbies". When clicking the "Projects" link it will take you to the projects page. You'll notice a long list of projects that I have worked on just in this first week. You can select any of the projects and it will take you to the Github repository to where that project is located._
+_This program once it is run will display a portfolio of my creation. The website will have three two separate links per page that take you to a different page. There is a total of 3 pages. In the home page is a picture of me. Right above the pictures is two links that will take you to the other pages. Under the picture is a text. When clicking the About link it will take you to the "About Me" page. There you will notice that there is two columns One labeled with "Education" the other labeled "Why I am here". And at the bottom of the About Me page is a section labeled "My Hobbies". When clicking the "Projects" link it will take you to the projects page. You'll notice a long list of projects that I have worked on just in this first week. You can select any of the projects and it will take you to the Github repository to where that project is located.
+
+https://ngwessels.github.io/independent-project-portfolio1/ gh-pages link_
 
 ## Setup/Installation Requirements
 
